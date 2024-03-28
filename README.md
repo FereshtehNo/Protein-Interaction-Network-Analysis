@@ -10,7 +10,7 @@ To run the analyses contained within this project, follow these steps:
 ### Prerequisites
 - R programming environment
 - Installed R packages: `bio3d`, `igraph`
-  ### Usage
+### Usage
 1. Set the project directory in the script to match your local setup.
 2. Run the scripts to perform analysis on your protein data files.
 
