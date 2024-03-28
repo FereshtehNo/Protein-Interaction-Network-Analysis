@@ -1,7 +1,5 @@
-# Protein-Interaction-Network-Analysis
-An R project for analyzing protein interactions 🧬 using bioinformatics tools and network analysis 🌐. Explores enzyme prediction 🔍, domain analysis 📊, and structural insights 🏗️
-
 # Protein Interaction Network Analysis 🧬🔍
+An R project for analyzing protein interactions 🧬 using bioinformatics tools and network analysis 🌐. Explores enzyme prediction 🔍, domain analysis 📊, and structural insights 🏗️ 
 
 ## Project Overview
 This repository contains a collection of R scripts designed for the analysis of protein interactions, focusing on enzyme prediction, domain analysis, and structural insights. Utilizing `bio3d` and `igraph`, we process PDB files to explore the molecular structure and interaction networks of proteins.
